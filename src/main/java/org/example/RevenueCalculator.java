@@ -1,28 +1,6 @@
 package org.example;
 
-public class RevenueCalculator {
+public interface RevenueCalculator {
 
-    private static final double HOURLY_RATE = 50;
-    private static final double FIXED_FEE = 500;
-    private static final double ROYALTY_PERCENTAGE = 0.15;
-
-    public static double price (final String method, final ClientEngagement clientEngagement){
-
-        switch (method)
-        {
-            case "Hourly":
-            return HOURLY_RATE * clientEngagement.getHoursWorked();
-
-            case "FixedFee":
-            return FIXED_FEE;
-
-            case "RoyalPercentage":
-            return ROYALTY_PERCENTAGE;
-
-            default:
-                throw new IllegalArgumentException("Unknown method" + method);
-        }
-
-
-    }
+    double calculate(ClientEngagement clientEngagement);
 }

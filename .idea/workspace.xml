@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f063c948-a388-489e-8b5a-bf1f5e0774b7" name="Changes" comment="From branch1(local) to branch1?">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ClientEngagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RevenueCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="f063c948-a388-489e-8b5a-bf1f5e0774b7" name="Changes" comment="simple example for revenu calculater using just classes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FixedFeeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HourlyRateCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RoyaltyShareCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RevenueCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RevenueCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -31,7 +33,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="branch2.2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -119,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680594359394</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="simple example for revenu calculater using just classes">
+      <created>1680598085111</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680598085111</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +158,7 @@
     <MESSAGE value="From branch1(local) to master?" />
     <MESSAGE value="From branch1(local) to branch2?" />
     <MESSAGE value="From branch1(local) to branch1?" />
-    <option name="LAST_COMMIT_MESSAGE" value="From branch1(local) to branch1?" />
+    <MESSAGE value="simple example for revenu calculater using just classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple example for revenu calculater using just classes" />
   </component>
 </project>
