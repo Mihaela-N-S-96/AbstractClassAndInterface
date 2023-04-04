@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f063c948-a388-489e-8b5a-bf1f5e0774b7" name="Changes" comment="From branch1(local) to master?" />
+    <list default="true" id="f063c948-a388-489e-8b5a-bf1f5e0774b7" name="Changes" comment="From branch1(local) to branch2?" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +51,28 @@
       <option name="project" value="LOCAL" />
       <updated>1680593413703</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="From branch1(local) to branch1?">
+      <created>1680593970722</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680593970722</updated>
+    </task>
+    <task id="LOCAL-00003" summary="From branch1(local) to branch1?">
+      <created>1680594033431</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680594033431</updated>
+    </task>
+    <task id="LOCAL-00004" summary="From branch1(local) to branch2?">
+      <created>1680594122171</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680594122171</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +100,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="From branch1(local) to master?" />
-    <option name="LAST_COMMIT_MESSAGE" value="From branch1(local) to master?" />
+    <MESSAGE value="From branch1(local) to branch1?" />
+    <MESSAGE value="From branch1(local) to branch2?" />
+    <option name="LAST_COMMIT_MESSAGE" value="From branch1(local) to branch2?" />
   </component>
 </project>
